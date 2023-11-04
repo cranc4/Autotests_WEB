@@ -1,0 +1,3 @@
+address: https://test-stand.gb.ru/login
+driver_path: D:\Autotests_WEB\chromedriver.exe
+sleep_time: 3
