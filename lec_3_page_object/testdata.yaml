@@ -1,0 +1,8 @@
+address: https://test-stand.gb.ru/login
+browser: chrome
+sleep_time: 5
+
+# login: "GB202307c17509"
+# passwd: "89578a2581"
+login: "JohnWick"
+passwd: "51757a1351"
