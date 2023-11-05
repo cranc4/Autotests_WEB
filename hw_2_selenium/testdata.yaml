@@ -1,0 +1,12 @@
+address: "https://test-stand.gb.ru"
+browser: "chrome"
+sleep_time: 5
+
+# login: "GB202307c17509"
+# pswd: "89578a2581"
+login: "JohnWick"
+pswd: "51757a1351"
+
+title: "Тест"
+description: "Тест"
+content: "Тест"
