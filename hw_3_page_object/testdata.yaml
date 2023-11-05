@@ -1,0 +1,12 @@
+address: https://test-stand.gb.ru/login
+browser: chrome
+sleep_time: 5
+
+# login: "GB202307c175014"
+# passwd: "de060e5293"
+login: "JohnWick"
+passwd: "51757a1351"
+
+name: "John Wick"
+email: "johnWick@mail.ru"
+content: "Все хотят знать, вернулся ли я? Да! Похоже, вернулся!"
