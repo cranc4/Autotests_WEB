@@ -1,0 +1,22 @@
+2023-11-05 23:41:19 INFO ====== WebDriver manager ======
+2023-11-05 23:41:19 INFO Get LATEST chromedriver version for google-chrome
+2023-11-05 23:41:19 INFO Get LATEST chromedriver version for google-chrome
+2023-11-05 23:41:20 INFO Driver [C:\Users\Doctor\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache
+2023-11-05 23:41:21 INFO Test1 Starting
+2023-11-05 23:41:22 INFO Send test to element // *[ @ id = "login"] / div[1] / label / input
+2023-11-05 23:41:22 INFO Send test to element // *[ @ id = "login"] / div[2] / label / input
+2023-11-05 23:41:22 INFO Click login button
+2023-11-05 23:41:23 INFO We find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2023-11-05 23:41:23 INFO Test2 Starting
+2023-11-05 23:41:23 INFO Send JohnWick to element // *[ @ id = "login"] / div[1] / label / input
+2023-11-05 23:41:23 INFO Send 51757a1351 to element // *[ @ id = "login"] / div[2] / label / input
+2023-11-05 23:41:23 INFO Click login button
+2023-11-05 23:41:24 INFO We find text Hello, JohnWick in text field //*[@id="app"]/main/nav/ul/li[3]/a
+2023-11-05 23:41:24 INFO Test Contact_us Starting
+2023-11-05 23:41:24 INFO Click contact button
+2023-11-05 23:41:24 INFO Send John Wick to element //*[@id="contact"]/div[1]/label/input
+2023-11-05 23:41:25 INFO Send johnWick@mail.ru to element //*[@id="contact"]/div[2]/label/input
+2023-11-05 23:41:25 INFO Send Все хотят знать, вернулся ли я? Да! Похоже, вернулся! to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-11-05 23:41:25 INFO Click Contact us button
+2023-11-05 23:41:26 INFO Get alert message
+2023-11-05 23:41:26 INFO Alert message is Form successfully submitted
