@@ -1,0 +1,23 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 3
+
+login: JohnWick
+password: 51757a1351
+
+title: 'Test1'
+description: 'Some description for test1'
+content: 'Some content for test1'
+
+username: John Wick
+user_email: johnWick@mail.ru
+content_contact: Some message
+
+fromaddr: gb.2005@internet.ru
+toaddr: gb.2005@internet.ru
+fromaddr_passwd: U5GDRzVm947m3jWjzzrn
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_post: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: 'Как я провела лето.'

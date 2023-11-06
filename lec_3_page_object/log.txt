@@ -1,9 +1,9 @@
-2023-11-05 23:02:00 INFO ====== WebDriver manager ======
-2023-11-05 23:02:01 INFO Get LATEST chromedriver version for google-chrome
-2023-11-05 23:02:01 INFO Get LATEST chromedriver version for google-chrome
-2023-11-05 23:02:01 INFO Driver [C:\Users\Doctor\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache
-2023-11-05 23:02:02 INFO Test2 Starting
-2023-11-05 23:02:03 INFO Send JohnWick to element // *[ @ id = "login"] / div[1] / label / input
-2023-11-05 23:02:03 INFO Send 51757a1351 to element // *[ @ id = "login"] / div[2] / label / input
-2023-11-05 23:02:03 INFO Click login button
-2023-11-05 23:02:05 INFO We find text Hello, JohnWick in text field //*[@id="app"]/main/nav/ul/li[3]/a
+2023-11-05 23:23:40 INFO ====== WebDriver manager ======
+2023-11-05 23:23:40 INFO Get LATEST chromedriver version for google-chrome
+2023-11-05 23:23:41 INFO Get LATEST chromedriver version for google-chrome
+2023-11-05 23:23:41 INFO Driver [C:\Users\Doctor\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache
+2023-11-05 23:23:42 INFO Test2 Starting
+2023-11-05 23:23:42 INFO Send JohnWick to element // *[ @ id = "login"] / div[1] / label / input
+2023-11-05 23:23:43 INFO Send 51757a1351 to element // *[ @ id = "login"] / div[2] / label / input
+2023-11-05 23:23:43 INFO Click login button
+2023-11-05 23:23:44 INFO We find text Hello, JohnWick in text field //*[@id="app"]/main/nav/ul/li[3]/a
